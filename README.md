@@ -23,7 +23,7 @@ Welcome! This repository documents my hands-on portfolio activities, lab reports
 | Course | Activity | Core Skills & Frameworks | Link |
 | :--- | :--- | :--- | :--- |
 | Course 1 | Professional Statement | Cybersecurity, Transferrable Skills, Security Domains & Frameworks | [View Statement](./01-foundations-of-cybersecurity/professional-statement.md) |
-| Course 2 | Controls and Compliance Checklist| NIST CSF, CIA Triad, SIEM Logs, Risk Analysis | [View Checklist](./02-play-it-safe-manage-security-risks/controls-and-compliance-checklist.md) |
+| Course 2 | Controls and Compliance Checklist| NIST CSF, CIA Triad, SIEM Logs, Risk Analysis | [View Checklist](./02-play-it-safe-manage-security-risks/controls-and-compliance-checklist.pdf) |
 
 ## 🛠️ Key Concepts & Frameworks Covered
 
