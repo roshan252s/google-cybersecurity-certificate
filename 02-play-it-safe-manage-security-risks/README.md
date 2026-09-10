@@ -4,7 +4,7 @@
 This activity evaluates the current security controls and regulatory compliance posture for **Botium Toys** based on an initial risk assessment report.
 
 ## Document
-* 📄 [View Full Completed Checklist (PDF)](controls-and-compliance-checklist.pdf)
+* 📄 [View Full Completed Checklist (PDF)](controls-and-compliance-checklist.md)
 
 ## Key Recommendations
 * **Security Controls Needed:** Implement Least Privilege, Separation of Duties, Data Encryption, and Intrusion Detection System (IDS) to protect sensitive customer data.
