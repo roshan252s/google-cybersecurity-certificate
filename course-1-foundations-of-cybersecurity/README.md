@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project contains my professional statement as I transition into the cybersecurity field. It highlights my background, strengths, professional values, interest in cybersecurity, and career goals.
+This activity contains my professional statement as I transition into the cybersecurity field. It highlights my background, strengths, professional values, interest in cybersecurity, and career goals.
 
 ## File
 
